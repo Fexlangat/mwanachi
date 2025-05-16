@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mwananchi-survey",
+    "staging": "mwananchi-survey"
+  },
+  "targets": {},
+  "etags": {}
+}
